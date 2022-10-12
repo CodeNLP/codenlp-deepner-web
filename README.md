@@ -1,3 +1,5 @@
+![](gfx/codenlp-deepner-gui.png)
+
 # Setup
 
 ```bash
